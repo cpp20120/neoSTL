@@ -1,0 +1,15 @@
+neo_demo 5 0.0093618
+neo_v3_tests 5 0.0017154
+neo_v4_tests 5 0.000946063
+neo_lifetime_tests 5 0.000363704
+neo_exception_tests 5 0.000310158
+neo_iterator_contract_tests 5 0.000241068
+neo_concepts_tests 5 0.000351515
+neo_language_features_tests 4 0.000382536
+neo_ranges_to_tests 4 0.000356272
+neo_policy_pack_tests 3 0.000365836
+neo_presets_tests 3 0.000528064
+neo_adaptor_closure_tests 2 0.000591869
+neo_range_capabilities_tests 2 0.000880149
+neo_cpo_dispatch_tests 1 0.00127157
+---
